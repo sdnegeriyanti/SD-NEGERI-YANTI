@@ -1,0 +1,247 @@
+{
+  "soal": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "q": "Bilangan loncat 2 naik dari 4 adalah 4, 6, 8, ... Angka berikutnya adalah ...",
+      "choices": ["9", "10", "11", "12"],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat naik 2",
+      "kognitif": "C4"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "q": "Bilangan loncat 5 turun dari 20 adalah 20, 15, ... Angka berikutnya adalah ...",
+      "choices": ["14", "12", "10", "5"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat turun 5",
+      "kognitif": "C4"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "q": "Manakah urutan bilangan loncat 10 naik yang benar?",
+      "choices": [
+        "0, 10, 20",
+        "0, 5, 10",
+        "10, 15, 20",
+        "20, 15, 10"
+      ],
+      "answer": 0,
+      "score": 1,
+      "materi": "bilangan loncat naik 10",
+      "kognitif": "C4"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "q": "Bilangan loncat 2 turun dari 10 adalah ...",
+      "choices": [
+        "10, 9, 8",
+        "10, 8, 6",
+        "10, 7, 4",
+        "10, 5, 0"
+      ],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat turun 2",
+      "kognitif": "C4"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "q": "Bilangan loncat 5 naik dari 5 sampai 20 adalah ...",
+      "choices": [
+        "5, 10, 15, 20",
+        "5, 8, 11, 14",
+        "5, 15, 20",
+        "5, 6, 7, 8"
+      ],
+      "answer": 0,
+      "score": 1,
+      "materi": "bilangan loncat naik 5",
+      "kognitif": "C4"
+    },
+
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "q": "Budi menghitung mundur dengan loncat 2 dari 12. Hitungan ketiga adalah ...",
+      "choices": ["10", "8", "6", "4"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat turun 2",
+      "kognitif": "C5"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "q": "Rina menghitung 3, 6, 9, 12. Ia menggunakan bilangan loncat ...",
+      "choices": ["1", "2", "3", "4"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat naik",
+      "kognitif": "C4"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "q": "Manakah bilangan yang HILANG pada urutan 20, 15, ___ , 5?",
+      "choices": ["14", "12", "10", "8"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat turun 5",
+      "kognitif": "C5"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "q": "Bilangan loncat yang sesuai dengan urutan 2, 4, 6, 8 adalah ...",
+      "choices": ["loncat 1", "loncat 2", "loncat 3", "loncat 4"],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat naik",
+      "kognitif": "C4"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "q": "Jika kamu menghitung 15, 10, 5, maka kamu sedang melakukan bilangan loncat ...",
+      "choices": ["naik 5", "turun 5", "naik 10", "turun 2"],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat turun",
+      "kognitif": "C4"
+    },
+
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "q": "Manakah urutan yang BENAR untuk bilangan loncat turun 10 dari 30?",
+      "choices": [
+        "30, 20, 10",
+        "30, 25, 20",
+        "30, 15, 0",
+        "30, 10, 5"
+      ],
+      "answer": 0,
+      "score": 1,
+      "materi": "bilangan loncat turun 10",
+      "kognitif": "C5"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "q": "Bilangan loncat naik 2 dari 7 akan menghasilkan ...",
+      "choices": [
+        "7, 8, 9",
+        "7, 9, 11",
+        "7, 10, 13",
+        "7, 12, 17"
+      ],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat naik 2",
+      "kognitif": "C4"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "q": "Manakah bilangan loncat yang PALING CEPAT mencapai 20 dari 0?",
+      "choices": ["loncat 1", "loncat 2", "loncat 5", "loncat 10"],
+      "answer": 3,
+      "score": 1,
+      "materi": "strategi bilangan loncat",
+      "kognitif": "C6"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "q": "Untuk menghitung 10, 8, 6, 4, bilangan loncat yang digunakan adalah ...",
+      "choices": ["naik 2", "turun 2", "naik 4", "turun 4"],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat turun",
+      "kognitif": "C4"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "q": "Bilangan loncat membantu kita menghitung dengan cara ...",
+      "choices": ["acak", "lambat", "teratur", "tidak urut"],
+      "answer": 2,
+      "score": 1,
+      "materi": "konsep bilangan loncat",
+      "kognitif": "C6"
+    },
+
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "q": "Jika hasil hitungan adalah 0, bilangan loncat turun yang MUNGKIN adalah ...",
+      "choices": ["10, 8, 6", "6, 4, 2", "5, 4, 3", "4, 2, 0"],
+      "answer": 3,
+      "score": 1,
+      "materi": "bilangan loncat turun",
+      "kognitif": "C6"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "q": "Manakah urutan yang SALAH?",
+      "choices": [
+        "2, 4, 6",
+        "10, 5, 0",
+        "5, 10, 15",
+        "8, 6, 5"
+      ],
+      "answer": 3,
+      "score": 1,
+      "materi": "identifikasi bilangan loncat",
+      "kognitif": "C5"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "q": "Jika kamu ingin menghitung 4 + 4 + 4, bilangan loncat yang tepat adalah ...",
+      "choices": ["loncat 2", "loncat 3", "loncat 4", "loncat 5"],
+      "answer": 2,
+      "score": 1,
+      "materi": "penjumlahan berulang",
+      "kognitif": "C6"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "q": "Bilangan loncat turun dari 9 sampai 3 yang benar adalah ...",
+      "choices": [
+        "9, 8, 7, 6, 5, 4, 3",
+        "9, 7, 5, 3",
+        "9, 6, 3",
+        "9, 5, 3"
+      ],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat turun",
+      "kognitif": "C5"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "q": "Manakah tujuan menggunakan bilangan loncat?",
+      "choices": [
+        "Agar menghitung lebih cepat",
+        "Agar angka menjadi acak",
+        "Agar berhitung lebih lama",
+        "Agar tidak berurutan"
+      ],
+      "answer": 0,
+      "score": 1,
+      "materi": "konsep bilangan loncat",
+      "kognitif": "C6"
+    }
+  ]
+}

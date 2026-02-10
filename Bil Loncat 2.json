@@ -1,0 +1,54 @@
+{
+  "soal": [
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "q": "Budi melompat pada ubin dengan pola bilangan loncat 2. Ia berdiri di ubin bernomor 4 lalu melompat 3 kali. Di ubin nomor berapa Budi berhenti?",
+      "choices": ["8", "9", "10", "11"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat 2",
+      "kognitif": "C4"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "q": "Siti menghitung kelereng dengan bilangan loncat 5: 5, 10, 15. Jika Siti melanjutkan sampai 4 loncatan, jumlah kelereng yang ia hitung adalah ...",
+      "choices": ["15", "20", "25", "30"],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat 5",
+      "kognitif": "C4"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "q": "Di halaman sekolah, terdapat kotak bernomor dengan pola bilangan loncat 10. Andi berdiri di angka 20 lalu maju 2 langkah sesuai pola. Angka yang diinjak Andi sekarang adalah ...",
+      "choices": ["30", "40", "50", "60"],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat 10",
+      "kognitif": "C5"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "q": "Rina menyusun kartu angka dengan bilangan loncat 3 dimulai dari 3. Jika kartu terakhir bernomor 18, berapa kali Rina melompat angka?",
+      "choices": ["4 kali", "5 kali", "6 kali", "7 kali"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat 3",
+      "kognitif": "C5"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "q": "Pak Guru membuat permainan dengan aturan bilangan loncat 4. Seorang siswa mulai dari angka 4 dan berhenti di angka 20. Berapa langkah loncatan yang dilakukan siswa tersebut?",
+      "choices": ["3 langkah", "4 langkah", "5 langkah", "6 langkah"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat 4",
+      "kognitif": "C6"
+    }
+  ]
+}

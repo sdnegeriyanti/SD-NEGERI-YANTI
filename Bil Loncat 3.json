@@ -1,0 +1,54 @@
+{
+  "soal": [
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "q": "Lani melangkah di tangga dengan pola bilangan loncat 2 dimulai dari angka 6. Jika Lani melangkah 4 kali, angka terakhir yang diinjak Lani adalah ...",
+      "choices": ["12", "13", "14", "15"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat 2",
+      "kognitif": "C4"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "q": "Doni menghitung jumlah pensil dengan bilangan loncat 5. Ia berhenti pada angka 25. Jika Doni mulai dari angka 5, berapa kali Doni melakukan loncatan?",
+      "choices": ["3 kali", "4 kali", "5 kali", "6 kali"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat 5",
+      "kognitif": "C5"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "q": "Pada papan permainan terdapat angka dengan pola bilangan loncat 10. Seorang anak berdiri di angka 30 lalu maju 3 langkah. Angka yang ia capai adalah ...",
+      "choices": ["50", "60", "70", "80"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat 10",
+      "kognitif": "C4"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "q": "Tina menyusun balok dengan pola bilangan loncat 4: 4, 8, 12, 16. Jika Tina ingin mencapai angka 28, berapa balok lagi yang harus ia susun?",
+      "choices": ["1 balok", "2 balok", "3 balok", "4 balok"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat 4",
+      "kognitif": "C6"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "q": "Guru meminta siswa menghitung dengan bilangan loncat 3. Seorang siswa mulai dari angka 3 dan berhenti di angka 21. Berapa jumlah langkah loncatan yang dilakukan siswa tersebut?",
+      "choices": ["5 langkah", "6 langkah", "7 langkah", "8 langkah"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat 3",
+      "kognitif": "C6"
+    }
+  ]
+}

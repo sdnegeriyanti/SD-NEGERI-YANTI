@@ -1,0 +1,104 @@
+{
+  "soal": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "q": "Ani menghitung dengan bilangan loncat 2 dimulai dari angka 1: 1, 3, 5. Angka berikutnya adalah ...",
+      "choices": ["6", "7", "8", "9"],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat 2",
+      "kognitif": "C3"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "q": "Budi melangkah di papan angka dengan bilangan loncat 3 dimulai dari 1. Setelah 4 langkah, angka yang diinjak Budi adalah ...",
+      "choices": ["10", "11", "12", "13"],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat 3",
+      "kognitif": "C4"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "q": "Siti menghitung kancing dengan bilangan loncat 4 dimulai dari 1: 1, 5, 9. Angka berikutnya adalah ...",
+      "choices": ["12", "13", "14", "15"],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat 4",
+      "kognitif": "C3"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "q": "Doni berdiri di angka 1 lalu melompat dengan bilangan loncat 5 sebanyak 3 kali. Angka tempat Doni berhenti adalah ...",
+      "choices": ["11", "12", "13", "14"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat 5",
+      "kognitif": "C4"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "q": "Guru menulis bilangan loncat 2 dimulai dari 1 hingga kurang dari 10. Bilangan terakhir yang ditulis guru adalah ...",
+      "choices": ["7", "8", "9", "10"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat 2",
+      "kognitif": "C4"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "q": "Rina menghitung manik-manik dengan bilangan loncat 3 dimulai dari 1. Jika Rina menyebut angka 13, berapa kali Rina melompat?",
+      "choices": ["3 kali", "4 kali", "5 kali", "6 kali"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat 3",
+      "kognitif": "C4"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "q": "Pada garis bilangan, Edo melompat dari angka 1 dengan pola loncat 4. Angka ketiga yang diinjak Edo adalah ...",
+      "choices": ["5", "9", "13", "17"],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat 4",
+      "kognitif": "C3"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "q": "Lina menghitung dengan bilangan loncat 5 dimulai dari 1. Angka kedua yang disebut Lina adalah ...",
+      "choices": ["5", "6", "7", "8"],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat 5",
+      "kognitif": "C3"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "q": "Pak Guru meminta siswa menghitung dengan bilangan loncat 2 mulai dari 1 sampai 15. Banyak bilangan yang disebut siswa adalah ...",
+      "choices": ["7", "8", "9", "10"],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat 2",
+      "kognitif": "C4"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "q": "Ani berjalan di lantai bernomor dengan bilangan loncat 3 dari angka 1. Jika Ani berhenti di angka 16, langkah yang dilakukan Ani adalah ...",
+      "choices": ["4 langkah", "5 langkah", "6 langkah", "7 langkah"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat 3",
+      "kognitif": "C4"
+    }
+  ]
+}

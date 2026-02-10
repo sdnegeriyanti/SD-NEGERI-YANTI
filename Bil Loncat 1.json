@@ -1,0 +1,54 @@
+{
+  "soal": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "q": "Ani menghitung dengan bilangan loncat 2: 2, 4, 6. Angka setelah 6 adalah ...",
+      "choices": ["7", "8", "9", "10"],
+      "answer": 1,
+      "score": 1,
+      "materi": "bilangan loncat 2",
+      "kognitif": "C1"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "q": "Budi mempunyai 5 apel. Ibu memberi lagi 3 apel. Jumlah apel Budi sekarang adalah ...",
+      "choices": ["7", "8", "9", "10"],
+      "answer": 1,
+      "score": 1,
+      "materi": "penjumlahan bilangan 1-20",
+      "kognitif": "C2"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "q": "Siti memiliki 10 permen. Ia memakan 4 permen. Sisa permen Siti adalah ...",
+      "choices": ["5", "6", "7", "8"],
+      "answer": 1,
+      "score": 1,
+      "materi": "pengurangan bilangan 1-20",
+      "kognitif": "C2"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "q": "Roni menghitung dengan bilangan loncat 5, 10, 15. bilangan terakhir Roni adalah ...",
+      "choices": ["10", "12", "15", "20"],
+      "answer": 2,
+      "score": 1,
+      "materi": "bilangan loncat 5",
+      "kognitif": "C1"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "q": "Ada 12 kue. Kue dibagi sama banyak kepada 3 anak. Setiap anak mendapat ... kue.",
+      "choices": ["2", "3", "4", "6"],
+      "answer": 2,
+      "score": 1,
+      "materi": "pembagian sederhana",
+      "kognitif": "C3"
+    }
+  ]
+}
