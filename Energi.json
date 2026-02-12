@@ -1,0 +1,270 @@
+{
+  "soal": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "q": "Energi adalah kemampuan untuk ...",
+      "choices": ["bernapas", "melakukan usaha", "bergerak cepat", "berdiam diri"],
+      "answer": 1,
+      "score": 1,
+      "materi": "arti energi",
+      "kognitif": "C1"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "q": "Sumber energi terbesar bagi kehidupan di Bumi adalah ...",
+      "choices": ["Bulan", "Bintang", "Matahari", "Api"],
+      "answer": 2,
+      "score": 1,
+      "materi": "sumber energi",
+      "kognitif": "C1"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "q": "Energi yang dimiliki benda karena geraknya disebut energi ...",
+      "choices": ["kimia", "panas", "kinetik", "listrik"],
+      "answer": 2,
+      "score": 1,
+      "materi": "jenis energi",
+      "kognitif": "C1"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "q": "Lampu yang menyala menunjukkan perubahan energi listrik menjadi energi ...",
+      "choices": ["gerak", "bunyi", "cahaya", "kimia"],
+      "answer": 2,
+      "score": 1,
+      "materi": "perubahan energi",
+      "kognitif": "C2"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "q": "Makanan yang kita makan mengandung energi ...",
+      "choices": ["listrik", "kimia", "cahaya", "bunyi"],
+      "answer": 1,
+      "score": 1,
+      "materi": "jenis energi",
+      "kognitif": "C2"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "q": "Contoh perubahan energi kimia menjadi energi gerak terjadi pada ...",
+      "choices": ["kipas angin", "kompor gas menyala", "manusia berlari", "lampu pijar"],
+      "answer": 2,
+      "score": 1,
+      "materi": "perubahan energi",
+      "kognitif": "C3"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "q": "Air terjun dimanfaatkan untuk menghasilkan energi listrik karena memiliki energi ...",
+      "choices": ["kimia", "bunyi", "gerak", "cahaya"],
+      "answer": 2,
+      "score": 1,
+      "materi": "jenis energi",
+      "kognitif": "C3"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "q": "Sebuah bola diam di atas meja memiliki energi potensial. Jika bola jatuh, energi tersebut berubah menjadi energi ...",
+      "choices": ["cahaya", "bunyi", "kinetik", "kimia"],
+      "answer": 2,
+      "score": 1,
+      "materi": "perubahan energi",
+      "kognitif": "C3"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "q": "Panel surya mengubah energi cahaya Matahari menjadi energi ...",
+      "choices": ["panas", "kimia", "listrik", "gerak"],
+      "answer": 2,
+      "score": 1,
+      "materi": "perubahan energi",
+      "kognitif": "C2"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "q": "Peralatan berikut yang memanfaatkan perubahan energi listrik menjadi energi panas adalah ...",
+      "choices": ["setrika", "radio", "kipas angin", "televisi"],
+      "answer": 0,
+      "score": 1,
+      "materi": "perubahan energi",
+      "kognitif": "C3"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "q": "Perhatikan kegiatan berikut: (1) Menjemur pakaian, (2) Mengisi baterai, (3) Memasak air dengan kompor gas. Yang memanfaatkan energi panas adalah ...",
+      "choices": ["1 dan 2", "1 dan 3", "2 dan 3", "1, 2, dan 3"],
+      "answer": 1,
+      "score": 1,
+      "materi": "jenis energi",
+      "kognitif": "C4"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "q": "Alat yang dapat mengubah energi gerak menjadi energi listrik adalah ...",
+      "choices": ["generator", "kompor", "lampu", "baterai"],
+      "answer": 0,
+      "score": 1,
+      "materi": "perubahan energi",
+      "kognitif": "C2"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "q": "Mengapa kendaraan membutuhkan bahan bakar untuk berjalan?",
+      "choices": [
+        "Agar menghasilkan cahaya",
+        "Karena bahan bakar mengandung energi kimia yang diubah menjadi energi gerak",
+        "Supaya menjadi lebih berat",
+        "Karena bahan bakar menghasilkan bunyi"
+      ],
+      "answer": 1,
+      "score": 1,
+      "materi": "perubahan energi",
+      "kognitif": "C3"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "q": "Jika listrik padam, aktivitas yang terganggu adalah ...",
+      "choices": [
+        "menjemur pakaian di bawah Matahari",
+        "menyalakan televisi",
+        "berlari di lapangan",
+        "makan siang"
+      ],
+      "answer": 1,
+      "score": 1,
+      "materi": "manfaat energi",
+      "kognitif": "C2"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "q": "Seseorang memanah dengan menarik busur. Saat anak panah dilepaskan, terjadi perubahan energi dari ...",
+      "choices": [
+        "kimia menjadi panas",
+        "potensial menjadi kinetik",
+        "listrik menjadi cahaya",
+        "panas menjadi gerak"
+      ],
+      "answer": 1,
+      "score": 1,
+      "materi": "perubahan energi",
+      "kognitif": "C4"
+    },
+
+    {
+      "id": 16,
+      "type": "fill_blank",
+      "q": "Energi adalah kemampuan untuk melakukan ...",
+      "answer": "usaha",
+      "acceptable_answers": ["usaha"],
+      "score": 1,
+      "materi": "arti energi",
+      "kognitif": "C1"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank",
+      "q": "Energi yang dimiliki benda karena kedudukannya disebut energi ...",
+      "answer": "potensial",
+      "acceptable_answers": ["potensial"],
+      "score": 1,
+      "materi": "jenis energi",
+      "kognitif": "C2"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank",
+      "q": "Perubahan energi listrik menjadi energi bunyi terjadi pada alat seperti ...",
+      "answer": "radio",
+      "acceptable_answers": ["radio", "speaker"],
+      "score": 1,
+      "materi": "perubahan energi",
+      "kognitif": "C3"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "q": "Matahari menghasilkan energi cahaya dan energi ...",
+      "answer": "panas",
+      "acceptable_answers": ["panas"],
+      "score": 1,
+      "materi": "sumber energi",
+      "kognitif": "C2"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "q": "Contoh perubahan energi kimia menjadi energi panas terjadi saat menyalakan ...",
+      "answer": "kompor",
+      "acceptable_answers": ["kompor", "kompor gas"],
+      "score": 1,
+      "materi": "perubahan energi",
+      "kognitif": "C3"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "q": "Panel surya mengubah energi cahaya menjadi energi ...",
+      "answer": "listrik",
+      "acceptable_answers": ["listrik"],
+      "score": 1,
+      "materi": "perubahan energi",
+      "kognitif": "C3"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank",
+      "q": "Generator pada PLTA mengubah energi gerak air menjadi energi ...",
+      "answer": "listrik",
+      "acceptable_answers": ["listrik"],
+      "score": 1,
+      "materi": "perubahan energi",
+      "kognitif": "C4"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank",
+      "q": "Energi yang tersimpan dalam makanan disebut energi ...",
+      "answer": "kimia",
+      "acceptable_answers": ["kimia"],
+      "score": 1,
+      "materi": "jenis energi",
+      "kognitif": "C2"
+    },
+    {
+      "id": 24,
+      "type": "fill_blank",
+      "q": "Saat kita menggosokkan kedua tangan hingga terasa hangat, terjadi perubahan energi gerak menjadi energi ...",
+      "answer": "panas",
+      "acceptable_answers": ["panas"],
+      "score": 1,
+      "materi": "perubahan energi",
+      "kognitif": "C3"
+    },
+    {
+      "id": 25,
+      "type": "fill_blank",
+      "q": "Anak panah yang melesat setelah dilepaskan menunjukkan adanya energi ...",
+      "answer": "kinetik",
+      "acceptable_answers": ["kinetik"],
+      "score": 1,
+      "materi": "jenis energi",
+      "kognitif": "C4"
+    }
+  ]
+}
